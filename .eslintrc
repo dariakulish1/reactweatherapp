@@ -14,7 +14,6 @@
     "airbnb/hooks",
     "react-app",
     "plugin:react/jsx-runtime",
-    "plugin:jest/recommended",
     "plugin:prettier/recommended"
   ],
   "settings": {

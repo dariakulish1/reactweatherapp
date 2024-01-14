@@ -11,6 +11,10 @@
 # production
 /build
 
+# Ignore artifacts:
+build
+coverage
+
 # misc
 .DS_Store
 .env.local
