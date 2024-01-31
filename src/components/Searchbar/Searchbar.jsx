@@ -1,6 +1,10 @@
 import './Searchbar.scss';
+import { PropTypes } from 'prop-types';
 import React, { useState } from 'react';
 
+const propTypes = {
+  onFindClick: PropTypes.function,
+}.isRequired;
 export const Searchbar = ({ onFindClick }) => {
   const [inputText, setInputText] = useState('');
   const handleInputChange = (event) => {
@@ -9,6 +13,7 @@ export const Searchbar = ({ onFindClick }) => {
   const handleFindClick = () => {
     onFindClick(inputText);
   };
+
   return (
     <div className="title">
       <h1 className="weather">Weather</h1>
@@ -29,3 +34,4 @@ export const Searchbar = ({ onFindClick }) => {
     </div>
   );
 };
+Searchbar.propTypes = propTypes;

@@ -13,9 +13,14 @@
     font-family: Rubik;
 }
 
+.iconimg {
+    width: 100px;
+    height: 100px;
+}
+
 .weatherdata {
-    width: 250px;
-    height: 98px;
+    width: 330px;
+    height: 130px;
     margin-top: -40px;
 }
 
@@ -24,6 +29,10 @@
     font-family: Rubik;
     font-size: 64px;
     font-weight: bold;
+    float: right;
+    margin-top: -95px;
+    margin-left: 120px;
+    position: absolute;
 }
 
 .clouds {
@@ -32,6 +41,6 @@
     font-family: Rubik;
     font-weight: bold;
     float: right;
-    margin-top: -70px;
-    margin-right: 82px;
+    margin-top: -20px;
+    margin-right: 140px;
 }
