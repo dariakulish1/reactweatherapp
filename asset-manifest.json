@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactweatherapp/static/css/main.a3ba5619.css",
+    "main.js": "/reactweatherapp/static/js/main.a9494b7e.js",
+    "static/media/background.jpg": "/reactweatherapp/static/media/background.a8eb08a0e8984d41c6c0.jpg",
+    "static/media/13d.png": "/reactweatherapp/static/media/13d.95ceb6965842e17d6dc2.png",
+    "static/media/09d.png": "/reactweatherapp/static/media/09d.bb11911cbd589e92255a.png",
+    "static/media/50n.png": "/reactweatherapp/static/media/50n.b8ae36b2959bb6bb0979.png",
+    "static/media/11d.png": "/reactweatherapp/static/media/11d.56e1d3e3ab8f9ee165c2.png",
+    "static/media/10d.png": "/reactweatherapp/static/media/10d.71d5cc24e9de75956b06.png",
+    "static/media/10n.png": "/reactweatherapp/static/media/10n.ef11a0f8df3ea6b170bb.png",
+    "static/media/04d.png": "/reactweatherapp/static/media/04d.2f18f32cc23426316550.png",
+    "static/media/02d.png": "/reactweatherapp/static/media/02d.9e8369347b8edb51c08a.png",
+    "static/media/01d.png": "/reactweatherapp/static/media/01d.ef160e22f7a8620b010c.png",
+    "static/media/02n.png": "/reactweatherapp/static/media/02n.efeee53c87acf993a23e.png",
+    "index.html": "/reactweatherapp/index.html",
+    "static/media/wind.svg": "/reactweatherapp/static/media/wind.dd117563a61d0391b39427a451e551f2.svg",
+    "static/media/humidity.svg": "/reactweatherapp/static/media/humidity.df9ffc0aa58fc6f8eca71d1a2a4d2f5d.svg",
+    "main.a3ba5619.css.map": "/reactweatherapp/static/css/main.a3ba5619.css.map",
+    "main.a9494b7e.js.map": "/reactweatherapp/static/js/main.a9494b7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ba5619.css",
+    "static/js/main.a9494b7e.js"
+  ]
+}
